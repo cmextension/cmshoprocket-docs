@@ -6,7 +6,7 @@
 Welcome to CMShoprocket's documentation!
 ========================================
 
-CMShoprocket is a Joomla! component for building an ecommerce website powered by `Shoprocket <https://www.shoprocket.com/>`_ and `Joomla! CMS <https://www.joomla.org/>`_.
+CMShoprocket is a Joomla! component for building an ecommerce website powered by `Shoprocket <https://www.shoprocket.co/>`_ and `Joomla! CMS <https://www.joomla.org/>`_.
 
 This documentation gives your instruction for how to install and setup CMShoprocket on your Joomla! website.
 
